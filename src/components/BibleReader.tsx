@@ -62,7 +62,7 @@ const BibleReader = ({ translation, book, chapter, onSearch }: BibleReaderProps)
               Search
             </Button>
           </form>
-        </Card>
+        </CardContent>
       </Card>
 
       {/* Chapter Header */}
